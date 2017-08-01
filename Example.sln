@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{AAA057B3-FDEF-4433-9409-A451579C7381}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPractice", "TDDPractice\TDDPractice.csproj", "{74C4391D-8ED3-436A-ADF3-21B9870DD7F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AAA057B3-FDEF-4433-9409-A451579C7381}.Debug|x86.ActiveCfg = Debug|x86
-		{AAA057B3-FDEF-4433-9409-A451579C7381}.Debug|x86.Build.0 = Debug|x86
-		{AAA057B3-FDEF-4433-9409-A451579C7381}.Release|x86.ActiveCfg = Release|x86
-		{AAA057B3-FDEF-4433-9409-A451579C7381}.Release|x86.Build.0 = Release|x86
+		{74C4391D-8ED3-436A-ADF3-21B9870DD7F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{74C4391D-8ED3-436A-ADF3-21B9870DD7F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{74C4391D-8ED3-436A-ADF3-21B9870DD7F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{74C4391D-8ED3-436A-ADF3-21B9870DD7F6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
